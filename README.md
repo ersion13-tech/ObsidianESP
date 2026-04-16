@@ -34,7 +34,7 @@ You can set a custom toggle key in `Options > Controls > Key Binds` (unbound by 
 This mod was developed using **IntelliJ IDEA** and **Fabric Loom**.
 
 > [!IMPORTANT]
-> [cite_start]**Java Development Kit (JDK) 21** is required for building the project[cite: 16].
+> **Java Development Kit (JDK) 21** is required for building the project[cite: 16].
 
 ### Building from source:
 1. Clone the repository:
