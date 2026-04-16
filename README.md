@@ -23,8 +23,6 @@
 
 Once installed, ObsidianESP will automatically start highlighting nearby obsidian blocks. If you have **ModMenu** installed, you can access the configuration GUI to:
 
-* **Change Highlight Style:** Switch between Boxes, Lines, or both.
-* **Customize Colors:** Choose any outline color to match your preference.
 * **Toggle Blocks:** Independently enable or disable highlights for **Obsidian** and **Crying Obsidian**.
 
 **Hotkeys:** You can set a custom toggle key in `Options > Controls > Key Binds` (unbound by default).
