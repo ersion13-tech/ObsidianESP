@@ -1,0 +1,11 @@
+{
+  "modmenu.description.obsidianesp": "Подсветка обсидиана и редких блоков для серверов.",
+  "key.obsidianesp.toggle": "Включить/Выключить ObsidianESP",
+  "category.obsidianesp": "ObsidianESP",
+  "text.autoconfig.obsidianesp.title": "Настройки ObsidianESP",
+  "text.autoconfig.obsidianesp.option.scanRange": "Дистанция сканирования",
+  "text.autoconfig.obsidianesp.option.scanRange.tooltip": "Радиус поиска блоков вокруг игрока. Чем выше значение, тем больше нагрузка на процессор.",
+  "text.autoconfig.obsidianesp.option.updateInterval": "Частота обновления",
+  "text.autoconfig.obsidianesp.option.updateInterval.tooltip": "Задержка между проверками в тиках (20 тиков = 1 секунда). Больше значение — меньше лагов.",
+  "text.autoconfig.obsidianesp.option.enabled": "Мод включен"
+}

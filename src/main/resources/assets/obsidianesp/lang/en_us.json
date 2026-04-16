@@ -1,0 +1,11 @@
+{
+  "modmenu.description.obsidianesp": "Highlights obsidian and reinforced blocks for servers.",
+  "key.obsidianesp.toggle": "Toggle ObsidianESP",
+  "category.obsidianesp": "ObsidianESP",
+  "text.autoconfig.obsidianesp.title": "ObsidianESP Settings",
+  "text.autoconfig.obsidianesp.option.scanRange": "Scan Range",
+  "text.autoconfig.obsidianesp.option.scanRange.tooltip": "The radius of the block search. Higher values increase CPU load.",
+  "text.autoconfig.obsidianesp.option.updateInterval": "Update Interval",
+  "text.autoconfig.obsidianesp.option.updateInterval.tooltip": "Delay between scans in ticks (20 ticks = 1 second). Higher values improve FPS.",
+  "text.autoconfig.obsidianesp.option.enabled": "Mod Enabled"
+}

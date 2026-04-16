@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "obsidianesp",
+  "version": "1.0.0",
+  "name": "ObsidianESP",
+  "description": "Custom Obsidian highlight for servers.",
+  "authors": [
+    "ErsionFludi"
+  ],
+  "license": "MIT",
+  "icon": "assets/obsidianesp/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.obsidianesp.ObsidianEspModInitializer"
+    ],
+    "modmenu": [
+      "com.example.obsidianesp.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "obsidianesp.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": ">=1.21.4 <=1.21.8",
+    "java": ">=21",
+    "cloth-config2": "*"
+  }
+}
