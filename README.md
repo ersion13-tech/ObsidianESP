@@ -25,7 +25,7 @@ Once installed, ObsidianESP will automatically start highlighting nearby obsidia
 
 Independently enable or disable highlights for **Obsidian** and **Crying Obsidian**.
 
-**Hotkeys:** You can set a custom toggle key in `Options > Controls > Key Binds` (unbound by default).
+You can set a custom toggle key in `Options > Controls > Key Binds` (unbound by default).
 
 ---
 
