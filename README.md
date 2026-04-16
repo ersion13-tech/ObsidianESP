@@ -7,10 +7,10 @@
 
 ---
 
-## 🛠 Installation
+## Installation
 
 > [!IMPORTANT]
-> Always ensure that your **Fabric Loader** and mod version match your Minecraft version (**1.21.4**). [cite_start]Using mismatched versions will cause the game to crash[cite: 16].
+> Always ensure that your **Fabric Loader** and mod version match your Minecraft version (**1.21.4**). Using mismatched versions will cause the game to crash.
 
 1. **Install Fabric Loader** for 1.21.4.
 2. **Add Fabric API** to your `mods` folder.
@@ -23,11 +23,11 @@
 
 Once installed, ObsidianESP will automatically start highlighting nearby obsidian blocks. If you have **ModMenu** installed, you can access the configuration GUI to:
 
-* [cite_start]**Change Highlight Style:** Switch between Boxes, Lines, or both[cite: 13, 15].
-* [cite_start]**Customize Colors:** Choose any outline color to match your preference[cite: 13, 15].
-* [cite_start]**Toggle Blocks:** Independently enable or disable highlights for **Obsidian** and **Crying Obsidian**[cite: 13, 15].
+* **Change Highlight Style:** Switch between Boxes, Lines, or both.
+* **Customize Colors:** Choose any outline color to match your preference.
+* **Toggle Blocks:** Independently enable or disable highlights for **Obsidian** and **Crying Obsidian**.
 
-[cite_start]**Hotkeys:** You can set a custom toggle key in `Options > Controls > Key Binds` (unbound by default)[cite: 14].
+**Hotkeys:** You can set a custom toggle key in `Options > Controls > Key Binds` (unbound by default).
 
 ---
 
